@@ -1,0 +1,19 @@
+## Interface: 20400
+## Title: Fudge |cff7fff7f -Ace2-|r
+## Notes: Show a range indicator for a given spell
+## Author: Fleetfoot
+## OptionalDeps: Ace2
+## SavedVariables: FudgeDB
+## X-License: GPL v2 or later
+
+## X-Website: http://fleetfoot.wowinterface.com/
+## X-Category: Interface Enhancements
+## X-Embeds: Ace2
+## X-WoWIPortal: fleetfoot
+## X-RelSite-WoWI: 6927
+
+## Libraries
+embeds.xml
+
+## Addon
+Fudge.lua
